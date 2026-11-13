@@ -1,4 +1,4 @@
-# RoldanNicolas-LopezPablo
+# Digitalización-RoldanNicolas-LopezPablo
 Práctica de Digitalización
 
 Nombre Alumno1 Nicolás Roldán Amador
